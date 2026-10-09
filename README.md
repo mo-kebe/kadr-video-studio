@@ -2,12 +2,12 @@
 
 **KADR** is Pixology's creative studio for cinematic storytelling, short-form films, motion design and character-led visual work.
 
-This **public repository is a portfolio/demo only**. It is not KADR's engineering workspace. The interface and project details shown here are **illustrative**, not evidence of a running production system or real-time integrations.
+This **public repository is a portfolio/demo only**. Its scenes and project details are illustrative, not evidence of a running production system or live integrations.
 
 ## Showcase themes
 
 - Cinematic brand films and short-form storytelling
-- Motion graphics, typography and camera-led visual design
+- Motion graphics, typography and visual design
 - Character-driven concepts and art direction
 - Arabic and international creative formats
 
@@ -18,8 +18,6 @@ npm install
 npm run start
 ```
 
-## Publication boundary
+This portfolio contains no original production projects, customer records or private implementation materials.
 
-Publish only selected, approved, audience-facing work. Keep private: agent instructions and prompts, source projects, service and MCP configurations, model/router implementation, credentials, internal operations, licensed source assets and client data.
-
-**Built by Pixology — Venture Engineering for Real-World Businesses.**
+**Built by Pixology** — Venture Engineering for Real-World Businesses.
