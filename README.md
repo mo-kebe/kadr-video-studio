@@ -1,34 +1,25 @@
-# Kadr Video Studio
+# KADR — Creative Showcase
 
-Kadr is an AI production operating system for professional video, motion and character workflows. Instead of binding a production to one model, Kadr preserves creative intent and routes each layer to the best available tool.
+**KADR** is Pixology's creative studio for cinematic storytelling, short-form films, motion design and character-led visual work.
 
-## The problem
+This **public repository is a portfolio/demo only**. It is not KADR's engineering workspace. The interface and project details shown here are **illustrative**, not evidence of a running production system or real-time integrations.
 
-Single-model generation breaks under real production demands: continuity, art direction, editable motion, voice rights, fallback providers, Arabic typography and deterministic finishing.
+## Showcase themes
 
-## Kadr's approach
+- Cinematic brand films and short-form storytelling
+- Motion graphics, typography and camera-led visual design
+- Character-driven concepts and art direction
+- Arabic and international creative formats
 
-- Creative direction translated into concrete shot grammar
-- Provider-aware orchestration and graceful fallbacks
-- Reusable Rive and Blender character systems
-- Remotion-based deterministic composition
-- Rights-aware voice, music and asset provenance
-- Scene-level revision without restarting the production
-- Automated quality gates for timing, typography and continuity
-
-## Demonstrated production layers
-
-`Brief → Director → Asset/Character System → Provider Router → Composition → Sound/Grade → QA`
-
-## Run the architecture showcase
+## View the demo
 
 ```bash
 npm install
 npm run start
 ```
 
-## Status
+## Publication boundary
 
-Active product R&D. This repository is a public architecture showcase; private connectors, models, licensed assets and customer productions are intentionally excluded.
+Publish only selected, approved, audience-facing work. Keep private: agent instructions and prompts, source projects, service and MCP configurations, model/router implementation, credentials, internal operations, licensed source assets and client data.
 
-Built by **Pixology** — Venture Engineering for Real-World Businesses.
+**Built by Pixology — Venture Engineering for Real-World Businesses.**
